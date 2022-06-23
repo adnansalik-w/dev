@@ -213,3 +213,22 @@
   font-size: 25px !important;
   font-weight: bold;
 }
+
+/* RWC Button Changes */
+.rwc-button--outlined.rwc-button--primary {
+  color: #244B9C !important;
+}
+
+.rwc-button {
+  border: 1px #244B9C solid !important;
+}
+
+.rwc-button:hover {
+  color: white !important;
+  background-color: #244B9C !important;
+  opacity: 1 !important;
+}
+
+.rwc-button--filled.rwc-button--primary {
+  background-color: #244B9C !important;
+}
