@@ -44,6 +44,7 @@
 }
 
 .content-bg {
+  color: #adadad00;
   color: #ffffff;
   width: 50%;
   background: linear-gradient(90deg, #000000, #00000000);
@@ -145,4 +146,63 @@
   bottom: 10px;
   ;
 
+}
+
+/* Chatbot Changes */
+.rwc-embed__thumb {
+  align-items: center;
+  justify-content: right !important;
+  width: 250px !important;
+  height: 50px !important;
+  cursor: pointer;
+  border-top-left-radius: 5px !important;
+  border-top-right-radius: 5px !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  background-color: rgb(235, 235, 235) !important;
+}
+
+.rwc-embed {
+  bottom: 0 !important;
+  right: 10px !important;
+}
+
+.rwc-embed--anim-none:before {
+  content: "Chat Now" !important;
+  color: black !important;
+  width: inherit;
+  font-weight: bolder;
+  position: fixed;
+  right: 75px;
+}
+
+.header {
+  height: 70px !important;
+}
+
+.rwc-embed .header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 2px -1px 12px #254099;
+  padding: 0 !important;
+}
+
+.header img {
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  width: 95px !important;
+  height: 92px !important;
+  position: absolute;
+  top: -5px;
+  left: 0;
+}
+
+.logo {
+  position: absolute;
+  top: 35px;
+  left: 125px;
+  font-size: 25px !important;
+  font-weight: bold;
 }
