@@ -192,10 +192,10 @@
   padding: 0 !important;
   margin: 0 !important;
   border-radius: 0 !important;
-  width: 95px !important;
-  height: 92px !important;
+  width: 90px !important;
+  height: 85px !important;
   position: absolute;
-  top: -5px;
+  top: 1px;
   left: 0;
 }
 
@@ -224,4 +224,18 @@
 
 .rwc-button--filled.rwc-button--primary {
   background-color: #244B9C !important;
+}
+
+.inp form .nam input#name {
+  border: 1px #6c757d solid !important;
+}
+
+.inp form .nam input#email {
+
+  border: 1px #6c757d solid !important;
+}
+
+.inp form .nam input#submit {
+  border: none !important;
+  padding-top: 5px !important;
 }
