@@ -149,7 +149,7 @@
 }
 
 /* Chatbot Changes */
-.rwc-embed__thumb {
+/* .rwc-embed__thumb {
   align-items: center;
   justify-content: right !important;
   width: 250px !important;
@@ -205,10 +205,10 @@
   left: 125px;
   font-size: 25px !important;
   font-weight: bold;
-}
+} */
 
 /* RWC Button Changes */
-.rwc-button--outlined.rwc-button--primary {
+/* .rwc-button--outlined.rwc-button--primary {
   color: #244B9C !important;
 }
 
@@ -240,9 +240,9 @@
   padding-top: 5px !important;
 }
 
-button#phonebtn {
-  /* width: 26px; */
-  color: white;
+button#phonebtn { */
+/* width: 26px; */
+/* color: white;
   border: none !important;
   border-radius: 2px !important;
   height: 25px !important;
@@ -257,4 +257,4 @@ button#phonebtn {
 
 select {
   line-height: normal;
-}
+} */
