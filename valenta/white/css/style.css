@@ -141,7 +141,7 @@
 }
 
 /* Chatbot Changes */
-/* .rwc-embed__thumb {
+.rwc-embed__thumb {
   align-items: center;
   justify-content: right !important;
   width: 250px !important;
@@ -240,8 +240,7 @@
 }
 
 button#phonebtn {
-  /* width: 26px; */
-/* color: white;
+  color: white;
   border: none !important;
   border-radius: 2px !important;
   height: 25px !important;
@@ -256,4 +255,4 @@ button#phonebtn {
 
 select {
   line-height: normal !important;
-} */
+}
