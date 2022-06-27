@@ -149,7 +149,7 @@
 }
 
 /* Chatbot Changes */
-/* .rwc-embed__thumb {
+.rwc-embed__thumb {
   align-items: center;
   justify-content: right !important;
   width: 250px !important;
@@ -176,7 +176,7 @@
   right: 75px;
 }
 
-.header {
+/* .header {
   height: 70px !important;
 }
 
